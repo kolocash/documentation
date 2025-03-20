@@ -4,13 +4,21 @@
 
 ## 1. Introduction
 
-KOLOCASH (KOLO) est une monnaie numérique souveraine lancée sur la blockchain Polygon, conçue pour financer des infrastructures et des projets tournés vers l'Afrique, tout en s'inscrivant dans une dynamique de coopération ouverte et équitable à l'échelle mondiale. Bien plus qu'une cryptomonnaie spéculative, KOLOCASH se veut être un véritable levier de développement économique durable, au service des petites et moyennes entreprises, des associations, des ONG et de toute initiative à fort impact social.
+KOLOCASH (KOLO) est une monnaie numérique souveraine lancée sur la blockchain Polygon, conçue pour financer des infrastructures et des projets tournés vers l'Afrique, tout en s'inscrivant dans une dynamique de coopération ouverte et équitable à l'échelle mondiale.
 
-Dans un monde en mutation où les grandes puissances réévaluent leurs priorités, KOLOCASH offre l'opportunité de renforcer l'autonomie économique et de favoriser un développement endogène tout en participant à un écosystème global de coopération. Ce projet vise ainsi à créer un environnement où les ressources locales sont mobilisées pour répondre aux besoins réels des communautés, dans l'intérêt de la planète et de tous ses habitants.
+Bien plus qu'une cryptomonnaie spéculative, KOLOCASH se veut être un véritable levier de développement économique durable, au service des petites et moyennes entreprises, des associations, des ONG et de toute initiative à fort impact social.
+
+Dans un monde en mutation où les grandes puissances réévaluent leurs priorités, KOLOCASH offre l'opportunité de renforcer l'autonomie économique et de favoriser un développement endogène tout en participant à un écosystème global de coopération.
+
+Ce projet vise ainsi à créer un environnement où les ressources locales sont mobilisées pour répondre aux besoins réels des communautés, dans l'intérêt de la planète et de tous ses habitants.
 
 ## 2. Vision
 
-La mission de KOLOCASH est de permettre des transactions fluides et accessibles, de soutenir le financement d'infrastructures locales et de proposer une alternative aux systèmes financiers traditionnels. Plutôt que de s'inscrire dans une logique exclusive, KOLOCASH se positionne comme un outil de développement économique inclusif, favorisant la coopération et l'intégration entre les acteurs locaux et internationaux. Le projet entend ainsi contribuer à une croissance résiliente et solidaire, où le développement de l'Afrique profite également à l'ensemble du monde.
+La mission de KOLOCASH est de permettre des transactions fluides et accessibles, de soutenir le financement d'infrastructures locales et de proposer une alternative aux systèmes financiers traditionnels.
+
+Plutôt que de s'inscrire dans une logique exclusive, KOLOCASH se positionne comme un outil de développement économique inclusif, favorisant la coopération et l'intégration entre les acteurs locaux et internationaux.
+
+Le projet entend ainsi contribuer à une croissance résiliente et solidaire, où le développement de l'Afrique profite également à l'ensemble de ses partenaires mondiaux.
 
 ## 3. Tokenomics
 
@@ -23,7 +31,9 @@ La mission de KOLOCASH est de permettre des transactions fluides et accessibles,
 
 ### 3.2. Levée de fonds initiale
 
-Pour lancer l’écosystème, une levée de fonds initiale sera réalisée par l’émission de 100 000 000 de KOLO proposés au taux de 1 KOLO pour 20 POL (soit environ 0,01 € par token). Ce premier pas permettra de financer les étapes initiales de développement, d'assurer la liquidité sur les plateformes décentralisées et de poser les bases d'une expansion progressive de l'écosystème.
+Pour lancer l’écosystème, une levée de fonds initiale sera réalisée par l’émission de 100 000 000 de KOLO proposés au taux de 1 KOLO pour 20 POL (soit environ 0,01 € par token).
+
+Ce premier pas permettra de financer les étapes initiales de développement, d'assurer la liquidité sur les plateformes décentralisées et de poser les bases d'une expansion progressive de l'écosystème.
 
 ### 3.3. Répartition des tokens
 
@@ -74,11 +84,15 @@ KOLOCASH intègre un mécanisme de taxe sur les transferts, qui se décompose ai
 
 ## 5. Sécurité et gouvernance
 
-KOLOCASH adoptera un modèle de gouvernance DAO où chaque détenteur pourra voter sur les décisions importantes du projet. Un **Multi-Sig Wallet** sera mis en place pour la sécurité des fonds et pour assurer la transparence dans la gestion des ressources destinées aux infrastructures et projets économiques.
+KOLOCASH adoptera un modèle de gouvernance DAO où chaque détenteur pourra voter sur les décisions importantes du projet.
+
+Un **Multi-Sig Wallet** sera mis en place pour la sécurité des fonds et pour assurer la transparence dans la gestion des ressources destinées aux infrastructures et projets économiques.
 
 ## 6. Conclusion
 
-KOLOCASH est plus qu'une simple cryptomonnaie ; c'est un outil stratégique qui soutient un développement économique inclusif et durable. En alliant innovation technologique et coopération globale, KOLOCASH permet à l'Afrique et à sa diaspora de mobiliser leurs ressources pour construire un avenir autonome et résilient. Ce projet incarne l'esprit d'une économie ouverte et collaborative, bénéfique pour la planète et pour tous ses acteurs.
+KOLOCASH est plus qu'une simple cryptomonnaie ; c'est un outil stratégique qui soutient un développement économique inclusif et durable. En alliant innovation technologique et coopération globale, KOLOCASH permet à l'Afrique et à sa diaspora de mobiliser leurs ressources pour construire un avenir autonome et résilient.
+
+Ce projet incarne l'esprit d'une économie ouverte et collaborative, bénéfique pour la planète et pour tous ses acteurs.
 
 ---
 
