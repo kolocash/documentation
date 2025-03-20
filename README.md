@@ -1,5 +1,7 @@
 # KOLOCASH ($KOLO) - Whitepaper
 
+![Kolocash logo](./images/logo.png)
+
 ## 1. Introduction
 
 KOLOCASH (KOLO) est une monnaie numérique souveraine lancée sur la blockchain Polygon, conçue pour financer des infrastructures et des projets tournés vers l'Afrique, tout en s'inscrivant dans une dynamique de coopération ouverte et équitable à l'échelle mondiale. Bien plus qu'une cryptomonnaie spéculative, KOLOCASH se veut être un véritable levier de développement économique durable, au service des petites et moyennes entreprises, des associations, des ONG et de toute initiative à fort impact social.
