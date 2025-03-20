@@ -20,7 +20,7 @@ KOLOCASH a pour mission de renforcer l'indépendance économique de l'Afrique en
 - **Symbole** : $KOLO
 - **Blockchain** : Polygon (ERC-20 sur Polygon)
 - **Offre totale** : 100 milliards de KOLO
-- **Prix initial** : 0.00001 $ / KOLO
+- **Prix initial** : 1 KOLO = 0.05 POL (~ 0.01 €)
 - **Capitalisation initiale** : 1 million de dollars
 
 ### 3.2. Répartition des tokens
