@@ -4,7 +4,7 @@
 
 ## 1. Introduction
 
-KOLOCASH (KOLO) est une monnaie numérique souveraine lancée sur la blockchain Polygon, conçue pour financer des infrastructures et des projets tournés vers l'Afrique, tout en s'inscrivant dans une dynamique de coopération ouverte et équitable à l'échelle mondiale.
+KOLOCASH (KOLO) est une monnaie numérique lancée sur la blockchain Polygon, conçue pour financer des infrastructures et des projets tournés vers l'Afrique, tout en s'inscrivant dans une dynamique de coopération ouverte et équitable à l'échelle mondiale.
 
 Bien plus qu'une cryptomonnaie spéculative, KOLOCASH se veut être un véritable levier de développement économique durable, au service des petites et moyennes entreprises, des associations, des ONG et de toute initiative à fort impact social.
 
@@ -42,10 +42,10 @@ La répartition des tokens est pensée pour soutenir l’ensemble des dimensions
 | Catégorie                                         | Pourcentage | Quantité (KOLO) |
 | ------------------------------------------------- | ----------- | --------------- |
 | Commerce intra-africain & Micro-finance           | 30%         | 30 000 000 000  |
-| Infrastructures & Services Financiers             | 25%         | 25 000 000 000  |
-| Prévente & Liquidité (incluant la levée initiale) | 25%         | 25 000 000 000  |
-| Réserve Communautaire                             | 10%         | 10 000 000 000  |
-| Équipe & Développement                            | 5%          | 5 000 000 000   |
+| Infrastructures & services financiers             | 25%         | 25 000 000 000  |
+| Prévente & liquidité (incluant la levée initiale) | 25%         | 25 000 000 000  |
+| Réserve communautaire                             | 10%         | 10 000 000 000  |
+| Équipe & développement                            | 5%          | 5 000 000 000   |
 | Partenariats                                      | 5%          | 5 000 000 000   |
 
 ### 3.3. Taxation des transactions
