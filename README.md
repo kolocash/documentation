@@ -5,11 +5,23 @@
 
 ![Kolocash logo](./images/logo.png)
 
+## Préambule
+
+Dès son retour à la Maison Blanche, Donald Trump a suspendu pendant 90 jours l’aide au développement international des États-Unis – y compris la quasi-totalité des financements de l’USAID – afin d’en évaluer la pertinence (1).
+
+Cette décision, qui a entraîné la suppression de plus de 90 % des financements internationaux de l’USAID, envoie un signal fort :
+
+**il est temps pour l'Afrique de se réinventer et de s'organiser pour tracer son propre chemin vers la prospérité, sans se renfermer sur elle-même.**
+
+(1) Source : Le Monde, “L’administration Trump a supprimé plus de 90 % des financements à l’étranger de l’USAID”, lien.
+
 ## 1. Introduction
 
 KOLOCASH (KOLO) est une monnaie numérique lancée sur la blockchain Polygon, conçue pour financer des infrastructures et des projets tournés vers l'Afrique, tout en s'inscrivant dans une dynamique de coopération ouverte et équitable à l'échelle mondiale.
 
-Bien plus qu'une cryptomonnaie spéculative, KOLOCASH se veut être un véritable levier de développement économique durable, au service des petites et moyennes entreprises, des associations, des ONG et de toute initiative à fort impact social.
+Notre objectif est clair : créer un écosystème où les ressources locales se mobilisent pour répondre aux besoins des communautés et bâtir un futur harmonieux, loin des erreurs du passé.
+
+KOLOCASH a pour ambition de devenir un véritable levier de développement économique durable, au service des petites et moyennes entreprises, des associations, des ONG et de toute initiative à fort impact social.
 
 Dans un monde en mutation où les grandes puissances réévaluent leurs priorités, KOLOCASH offre l'opportunité de renforcer l'autonomie économique et de favoriser un développement endogène tout en participant à un écosystème global de coopération.
 
@@ -23,7 +35,13 @@ Kolocash est l’occasion pour l’Afrique de reprendre le contrôle, de bâtir 
 
 La mission de KOLOCASH est de permettre des transactions fluides et accessibles, de soutenir le financement d'infrastructures locales et de proposer une alternative aux systèmes financiers traditionnels.
 
-Plutôt que de s'inscrire dans une logique exclusive, KOLOCASH se positionne comme un outil de développement économique inclusif, favorisant la coopération et l'intégration entre les acteurs locaux et internationaux.
+KOLOCASH a été créé pour simplifier et démocratiser l’accès aux financements essentiels :
+
+- Transactions simples et accessibles : faciliter la vie quotidienne grâce à une monnaie digitale stable et intuitive.
+- Développement durable : soutenir des projets d’infrastructures et des initiatives locales qui renforcent l’économie réelle.
+- Une finance au service de tous : offrir une alternative aux systèmes traditionnels, où chaque investissement participe à une transformation collective.
+
+Votre investissement aide à construire un écosystème où l’innovation se met au service du progrès social et économique.
 
 Le projet entend ainsi contribuer à une croissance résiliente et solidaire, où le développement de l'Afrique profite également à l'ensemble de ses partenaires mondiaux.
 
@@ -97,7 +115,9 @@ Un **Multi-Sig Wallet** sera mis en place pour la sécurité des fonds et pour a
 
 ## 6. Conclusion
 
-KOLOCASH est plus qu'une simple cryptomonnaie ; c'est un outil stratégique qui soutient un développement économique inclusif et durable. En alliant innovation technologique et coopération globale, KOLOCASH permet à l'Afrique et à sa diaspora de mobiliser leurs ressources pour construire un avenir autonome et résilient.
+KOLOCASH n’est pas qu’une cryptomonnaie – c’est un mouvement.
+
+En investissant dans KOLOCASH, vous devenez acteur d’une révolution économique qui finance l’innovation, soutient les initiatives locales et crée un avenir plus prospère et solidaire.
 
 Ce projet incarne l'esprit d'une économie ouverte et collaborative, bénéfique pour la planète et pour tous ses acteurs.
 
