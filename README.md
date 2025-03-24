@@ -7,13 +7,11 @@
 
 ## Préambule
 
-Dès son retour à la Maison Blanche, Donald Trump a suspendu pendant 90 jours l’aide au développement international des États-Unis – y compris la quasi-totalité des financements de l’USAID – afin d’en évaluer la pertinence (1).
+Dès son retour à la Maison Blanche, Donald Trump a suspendu pendant 90 jours l’aide au développement international des États-Unis – y compris la quasi-totalité des financements de l’USAID – afin d’en évaluer la pertinence [^1]. Cette décision, qui a entraîné la suppression de plus de 90 % des financements internationaux de l’USAID, envoie un signal fort :
 
-Cette décision, qui a entraîné la suppression de plus de 90 % des financements internationaux de l’USAID, envoie un signal fort :
+**Il est temps pour l'Afrique de se réinventer et de s'organiser pour tracer son propre chemin vers la prospérité, sans se renfermer sur elle-même.**
 
-**il est temps pour l'Afrique de se réinventer et de s'organiser pour tracer son propre chemin vers la prospérité, sans se renfermer sur elle-même.**
-
-(1) Source : Le Monde, “L’administration Trump a supprimé plus de 90 % des financements à l’étranger de l’USAID”, lien.
+[^1]: Source : Le Monde, [“L’administration Trump a supprimé plus de 90 % des financements à l’étranger de l’USAID”](https://www.lemonde.fr/international/article/2025/02/27/plus-de-90-des-financements-a-l-etranger-de-l-agence-usaid-supprimes-par-l-administration-trump_6566441_3210.html).
 
 ## 1. Introduction
 
