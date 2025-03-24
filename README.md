@@ -1,7 +1,7 @@
 # KOLOCASH ($KOLO) - Whitepaper
 
 - Website : https://kolo.cash
-- Smart contract : https://github.com/kolocash/kolocash
+- Smart contract : https://github.com/kolocash/kolocash ([Polygon scan](https://polygonscan.com/address/0x3863d42931cbf5798a5a74cf3468273a7eeb3c9a))
 
 ![Kolocash logo](./images/logo.png)
 
