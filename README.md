@@ -15,6 +15,10 @@ Dans un monde en mutation où les grandes puissances réévaluent leurs priorit�
 
 Ce projet vise ainsi à créer un environnement où les ressources locales sont mobilisées pour répondre aux besoins réels des communautés, dans l'intérêt de la planète et de tous ses habitants.
 
+La diaspora est elle aussi invitée à investir dans le développement de l'Afrique. En stakant leur fiat contre des KOLO, les investisseurs de la diaspora pourront obtenir des intérêts issus des microcrédits accordés aux entrepreneurs et acteurs sociaux sur le continent. Ainsi, KOLOCASH crée un cercle vertueux où l'investissement génère des revenus tout en finançant des projets à impact social et économique.
+
+Kolocash est l’occasion pour l’Afrique de reprendre le contrôle, de bâtir une économie forte et solidaire qui profite à tous.
+
 ## 2. Vision
 
 La mission de KOLOCASH est de permettre des transactions fluides et accessibles, de soutenir le financement d'infrastructures locales et de proposer une alternative aux systèmes financiers traditionnels.
