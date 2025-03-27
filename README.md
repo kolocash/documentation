@@ -94,39 +94,38 @@ KOLOCASH intègre un mécanisme de taxe sur les transferts, qui se décompose ai
 
 ### **Phase 1 : développement & lancement (mois 1-3)**
 
-- [ x ] Développement et déploiement du smart contract KOLOCASH sur Polygon.
-- [ x ] Audit de sécurité complet.
-- [ x ] Mise en place des canaux de communication (Twitter, Telegram, Facebook, ...) et lancement du site officiel.
+- [x] Développement et déploiement du smart contract KOLOCASH sur Polygon.
+- [x] Audit de sécurité complet.
+- [x] Mise en place des canaux de communication (Twitter, Telegram, Facebook, ...) et lancement du site officiel.
 - [ ] Réalisation de la prévente initiale de 100 000 000 KOLO
 - [ ] Listing et liquidity sur Dex
 
 ### **Phase 2 : adoption et croissance (mois 4-6)**
 
-- Listing sur CoinGecko et/ou CoinMarketCap
-- Partenariats avec influenceurs et leaders d'opinion pour encourager l’adoption à large échelle.
-- Mise en place de la DAO pour une gouvernance communautaire transparente et participative.
-- Expansion des cas d’utilisation de KOLOCASH (paiements, microfinance, e-commerce, infrastructures)
+- [ ] Listing sur CoinGecko et/ou CoinMarketCap
+- [ ] Partenariats avec influenceurs et leaders d'opinion pour encourager l’adoption à large échelle.
+- [ ] Mise en place de la DAO pour une gouvernance communautaire transparente et participative.
+- [ ] Expansion des cas d’utilisation de KOLOCASH (paiements, microfinance, e-commerce, infrastructures)
 
 ### **Phase 3 : stabilisation & cas d'utilisation (mois 6+)**
 
-- 📈 Listing sur des exchanges centralisés (CEX) pour accroître la visibilité de KOLOCASH et faciliter l’accès pour tous.
-- 🤝 Intégration avec des entreprises et institutions financières pour favoriser l’utilisation quotidienne du KOLO dans la vie réelle.
-- ⚖️ Développement d’un mécanisme de stabilisation du prix pour assurer une valeur stable du KOLO malgré la volatilité du marché.
-- 🌍 Création d’un fonds d’investissement à impact pour soutenir des projets sociaux et économiques en Afrique (éducation, agriculture, énergie, etc.).
-- 💰 Système de lending / borrowing KOLO :
-   * Les utilisateurs peuvent staker leurs KOLO ou autres tokens (POL, ETH, BTC, USDC, etc.).
-   * En retour, ils reçoivent des intérêts versés en KOLO.
-   * Chaque emprunt est garanti par un collatéral pour limiter les risques.
-   * Le taux d’intérêt est ajusté dynamiquement selon l’offre et la demande.
-- Plateforme de micro-crédits décentralisés :
-   * Les investisseurs prêtent leurs cryptos à des entrepreneurs, associations ou particuliers africains.
-   * Les projets sont validés par la DAO KOLO ou la communauté.
-   * Les remboursements incluent un pourcentage d’intérêt, redistribué aux investisseurs.
-   * Objectif : favoriser l’accès au financement sans passer par les banques traditionnelles, avec un impact direct sur l’économie locale.
-- KOLO Pay (solution mobile)
-- KOLO Wallet
-- Bridge vers d'autres blockchains
-- Kolocash Academy
+- [ ] Listing sur des exchanges centralisés (CEX) pour accroître la visibilité de KOLOCASH et faciliter l’accès pour tous.
+- [ ] Intégration avec des entreprises et institutions financières pour favoriser l’utilisation quotidienne du KOLO dans la vie réelle.
+- [ ] Développement d’un mécanisme de stabilisation du prix pour assurer une valeur stable du KOLO malgré la volatilité du marché.
+- [ ] Création d’un fonds d’investissement à impact pour soutenir des projets sociaux et économiques en Afrique (éducation, agriculture, énergie, etc.).
+- [ ] Système de lending / borrowing KOLO :
+   * [ ] Les utilisateurs peuvent staker leurs KOLO ou autres tokens (POL, ETH, BTC, USDC, etc.).
+   * [ ] En retour, ils reçoivent des intérêts versés en KOLO.
+   * [ ] Chaque emprunt est garanti par un collatéral pour limiter les risques.
+   * [ ] Le taux d’intérêt est ajusté dynamiquement selon l’offre et la demande.
+- [ ] Plateforme de micro-crédits décentralisés :
+   * [ ] Les investisseurs prêtent leurs cryptos à des entrepreneurs, associations ou particuliers africains.
+   * [ ] Les projets sont validés par la DAO KOLO ou la communauté.
+   * [ ] Les remboursements incluent un pourcentage d’intérêt, redistribué aux investisseurs.
+- [ ] KOLO Pay (solution mobile)
+- [ ] KOLO Wallet
+- [ ] Bridge vers d'autres blockchains
+- [ ] Kolocash Academy
 
 ## 5. Sécurité et gouvernance
 
