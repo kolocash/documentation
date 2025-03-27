@@ -12,7 +12,7 @@ date: "2025-03-27"
 
 ![Kolocash logo](./images/logo.png)
 
-**Table des matières**
+## Table des matières
 1. [Préambule](#préambule)
 2. [Introduction](#1-introduction)
 3. [Vision](#2-vision)
@@ -24,7 +24,9 @@ date: "2025-03-27"
 5. [Roadmap](#4-roadmap)
    - [Phase 1 : développement & lancement (mois 1-3)](#phase-1--développement--lancement-mois-1-3)
    - [Phase 2 : adoption et croissance (mois 4-6)](#phase-2--adoption-et-croissance-mois-4-6)
-   - [Phase 3 : stabilisation & cas d'utilisation (mois 6+)](#phase-3--stabilisation--cas-dutilisation-mois-6)
+   - [Phase 3 : stabilisation & utilité (mois 6+)](#phase-3--stabilisation--utilité-mois-6)
+   - [Phase 4 : finance inclusive & rendements](#phase-4--finance-inclusive--rendements)
+   - [Phase 5 : intelligence artificielle & outils KOLO](#phase-5--intelligence-artificielle--outils-kolo)
 6. [Sécurité et gouvernance](#5-sécurité-et-gouvernance)
 7. [Conclusion](#6-conclusion)
 
