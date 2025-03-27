@@ -128,21 +128,30 @@ KOLOCASH intègre un mécanisme de taxe sur les transferts, qui se décompose ai
 - [ ] Bridge vers d'autres blockchains
 - [ ] Intégration avec des entreprises et institutions financières pour favoriser l’utilisation quotidienne du KOLO dans la vie réelle.
 - [ ] Développement d’un mécanisme de stabilisation du prix pour assurer une valeur stable du KOLO malgré la volatilité du marché.
-- [ ] Création d’un fonds d’investissement à impact pour soutenir des projets sociaux et économiques en Afrique (éducation, agriculture, énergie, etc.).
-- [ ] Système de lending / borrowing KOLO :
+- [ ] Création d’un fonds d’investissement à impact pour soutenir des projets sociaux et économiques en :
+   * [ ] Education
+   * [ ] Agriculture
+   * [ ] Énergie renouvelable
+   * [ ] Santé publique
+- [ ] Système de financement décentralisé KOLO (lending / micro-crédits)
    * [ ] Les utilisateurs peuvent staker leurs KOLO ou autres tokens (POL, ETH, BTC, USDC, etc.).
-   * [ ] En retour, ils reçoivent des intérêts versés en KOLO.
-   * [ ] Chaque emprunt est garanti par un collatéral pour limiter les risques.
-   * [ ] Le taux d’intérêt est ajusté dynamiquement selon l’offre et la demande.
-- [ ] Plateforme de micro-crédits décentralisés :
-   * [ ] Les détenteurs de crypto (KOLO, POL, ETH, BTC, USDC…) peuvent staker leurs actifs pour générer des intérêts en KOLO.
-   * [ ] Les fonds prêtés sont utilisés pour financer des micro-crédits à des particuliers, entrepreneurs ou associations en Afrique.
-   * [ ] Les projets sont sélectionnés et validés par la DAO KOLO, garantissant transparence et utilité réelle.
-   * [ ] Les emprunteurs remboursent des intérêts raisonnables qui sont redistribués aux prêteurs, créant un écosystème durable, solidaire et rentable.
-   * [ ] Un système de collatéralisation et de notation communautaire permet de limiter les risques.
-- [ ] KOLO Pay (solution mobile)
-- [ ] KOLO Wallet
-- [ ] Kolocash Academy
+   * [ ] En retour, ils reçoivent des intérêts en KOLO, calculés dynamiquement selon l’offre et la demande.
+   * [ ] Les fonds sont utilisés pour financer des micro-crédits à des particuliers, entrepreneurs et associations africaines.
+   * [ ] Les projets sont sélectionnés et validés par la DAO pour garantir transparence et impact.
+   * [ ] Les emprunteurs remboursent avec intérêts, redistribués aux prêteurs.
+   * [ ] Système de collatéralisation et de notation communautaire pour limiter les risques et inciter à la confiance.
+- [ ] Intégration de solutions d’intelligence artificielle (IA)
+   * [ ] Analyse de risque des emprunteurs et détection de comportements frauduleux.
+   * [ ] Recommandation intelligente d’opportunités d’investissement aux utilisateurs.
+   * [ ] Ajustement dynamique des taux de lending/borrowing selon les données de marché.
+   * [ ] Gouvernance DAO assistée par IA : priorisation des propositions et analyse des votes.
+   * [ ] Matching investisseurs ↔ projets selon profils, historique et préférences.
+   * [ ] Suivi de l’impact social et économique des projets financés via KOLO.
+- [ ] KOLO Pay – Solution mobile de paiement, en ligne et hors-ligne.
+- [ ] KOLO Wallet – Portefeuille décentralisé multichain avec fiat on-ramp/off-ramp.
+- [ ] Kolocash Academy – Plateforme d’éducation Web3 pour l'ensemble de la communauté.
+- [ ] KOLO Marketplace – Place de marché panafricaine (produits/services payables en KOLO).
+- [ ] KOLO Scan – Explorateur de transactions et visualisation d’impact.
 
 ## 5. Sécurité et gouvernance
 
