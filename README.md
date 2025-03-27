@@ -122,7 +122,7 @@ KOLOCASH intègre un mécanisme de taxe sur les transferts, qui se décompose ai
 - [ ] Mise en place de la DAO pour une gouvernance communautaire transparente et participative.
 - [ ] Expansion des cas d’utilisation de KOLOCASH (paiements, microfinance, e-commerce, infrastructures)
 
-### **Phase 3 : stabilisation & cas d'utilisation (mois 6+)**
+### **Phase 3 : stabilisation & utilité (mois 6+)**
 
 - [ ] Listing sur des exchanges centralisés (CEX) pour accroître la visibilité de KOLOCASH et faciliter l’accès pour tous.
 - [ ] Bridge vers d'autres blockchains
@@ -133,6 +133,8 @@ KOLOCASH intègre un mécanisme de taxe sur les transferts, qui se décompose ai
    * [ ] Agriculture
    * [ ] Énergie renouvelable
    * [ ] Santé publique
+     
+### **Phase 4 : finance inclusive & rendements**
 - [ ] Système de financement décentralisé KOLO (lending / micro-crédits)
    * [ ] Les utilisateurs peuvent staker leurs KOLO ou autres tokens (POL, ETH, BTC, USDC, etc.).
    * [ ] En retour, ils reçoivent des intérêts en KOLO, calculés dynamiquement selon l’offre et la demande.
@@ -140,6 +142,8 @@ KOLOCASH intègre un mécanisme de taxe sur les transferts, qui se décompose ai
    * [ ] Les projets sont sélectionnés et validés par la DAO pour garantir transparence et impact.
    * [ ] Les emprunteurs remboursent avec intérêts, redistribués aux prêteurs.
    * [ ] Système de collatéralisation et de notation communautaire pour limiter les risques et inciter à la confiance.
+
+### **Phase 5 : intelligence artificielle & outils KOLO**
 - [ ] Intégration de solutions d’intelligence artificielle (IA)
    * [ ] Analyse de risque des emprunteurs et détection de comportements frauduleux.
    * [ ] Recommandation intelligente d’opportunités d’investissement aux utilisateurs.
