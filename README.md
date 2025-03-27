@@ -12,7 +12,7 @@ date: "2025-03-27"
 
 ![Kolocash logo](./images/logo.png)
 
-## Table des matières
+**Table des matières**
 1. [Préambule](#préambule)
 2. [Introduction](#1-introduction)
 3. [Vision](#2-vision)
