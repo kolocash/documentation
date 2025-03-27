@@ -1,9 +1,17 @@
+<!--
+---
+author: "Charles EDOU NZE"
+date: "2025-03-27"
+--- 
+-->
+
 # KOLOCASH ($KOLO) - Whitepaper
 
 - Website : https://kolo.cash
 - Smart contract : https://github.com/kolocash/kolocash-contracts ([Polygon scan](https://polygonscan.com/address/0x3863d42931cbf5798a5a74cf3468273a7eeb3c9a))
 
 ![Kolocash logo](./images/logo.png)
+
 
 ## Préambule
 
@@ -79,15 +87,16 @@ KOLOCASH intègre un mécanisme de taxe sur les transferts, qui se décompose ai
 - 1% est brûlé, contribuant ainsi à la réduction progressive de l'offre circulante.
 - 1% est alloué aux projets à impact social et économique.
 
-> Note : Contrairement à d'autres mécanismes de redistribution, il n'y a aucune taxe redistribuée aux holders.
+> [!NOTE]
+> Contrairement à d'autres mécanismes de redistribution, il n'y a aucune taxe redistribuée aux holders.
 
 ## 4. Roadmap
 
 ### **Phase 1 : développement & lancement (mois 1-3)**
 
-- [ ] Développement et déploiement du smart contract KOLOCASH sur Polygon.
-- [ ] Audit de sécurité complet.
-- [ ] Mise en place des canaux de communication (Twitter, Telegram, Discord, Medium) et lancement du site officiel.
+- [ x ] Développement et déploiement du smart contract KOLOCASH sur Polygon.
+- [ x ] Audit de sécurité complet.
+- [ x ] Mise en place des canaux de communication (Twitter, Telegram, Facebook, ...) et lancement du site officiel.
 - [ ] Réalisation de la prévente initiale de 100 000 000 KOLO
 - [ ] Listing et liquidity sur Dex
 
@@ -100,10 +109,20 @@ KOLOCASH intègre un mécanisme de taxe sur les transferts, qui se décompose ai
 
 ### **Phase 3 : stabilisation & cas d'utilisation (mois 6+)**
 
-- Listing sur des exchanges centralisés (CEX)
-- Intégration avec des entreprises et institutions financières pour faciliter l'utilisation quotidienne de KOLOCASH.
-- Développement d'un mécanisme de stabilisation du prix
-- Création d’un fonds d'investissement dédié aux projets à fort impact social et économique en Afrique
+- 📈 Listing sur des exchanges centralisés (CEX) pour accroître la visibilité de KOLOCASH et faciliter l’accès pour tous.
+- 🤝 Intégration avec des entreprises et institutions financières pour favoriser l’utilisation quotidienne du KOLO dans la vie réelle.
+- ⚖️ Développement d’un mécanisme de stabilisation du prix pour assurer une valeur stable du KOLO malgré la volatilité du marché.
+- 🌍 Création d’un fonds d’investissement à impact pour soutenir des projets sociaux et économiques en Afrique (éducation, agriculture, énergie, etc.).
+- 💰 Système de lending / borrowing KOLO :
+   * Les utilisateurs peuvent staker leurs KOLO ou autres tokens (POL, ETH, BTC, USDC, etc.).
+   * En retour, ils reçoivent des intérêts versés en KOLO.
+   * Chaque emprunt est garanti par un collatéral pour limiter les risques.
+   * Le taux d’intérêt est ajusté dynamiquement selon l’offre et la demande.
+- Plateforme de micro-crédits décentralisés :
+   * Les investisseurs prêtent leurs cryptos à des entrepreneurs, associations ou particuliers africains.
+   * Les projets sont validés par la DAO KOLO ou la communauté.
+   * Les remboursements incluent un pourcentage d’intérêt, redistribué aux investisseurs.
+   * Objectif : favoriser l’accès au financement sans passer par les banques traditionnelles, avec un impact direct sur l’économie locale.
 - KOLO Pay (solution mobile)
 - KOLO Wallet
 - Bridge vers d'autres blockchains
