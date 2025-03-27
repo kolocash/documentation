@@ -12,6 +12,21 @@ date: "2025-03-27"
 
 ![Kolocash logo](./images/logo.png)
 
+**Table des matières**
+1. [Préambule](#préambule)
+2. [Introduction](#1-introduction)
+3. [Vision](#2-vision)
+4. [Tokenomics](#3-tokenomics)
+   - [Caractéristiques du token](#31-caractéristiques-du-token)
+   - [Levée de fonds initiale](#32-levée-de-fonds-initiale)
+   - [Répartition des tokens](#33-répartition-des-tokens)
+   - [Taxation des transactions](#34-taxation-des-transactions)
+5. [Roadmap](#4-roadmap)
+   - [Phase 1 : développement & lancement (mois 1-3)](#phase-1--développement--lancement-mois-1-3)
+   - [Phase 2 : adoption et croissance (mois 4-6)](#phase-2--adoption-et-croissance-mois-4-6)
+   - [Phase 3 : stabilisation & cas d'utilisation (mois 6+)](#phase-3--stabilisation--cas-dutilisation-mois-6)
+6. [Sécurité et gouvernance](#5-sécurité-et-gouvernance)
+7. [Conclusion](#6-conclusion)
 
 ## Préambule
 
