@@ -104,6 +104,10 @@ KOLOCASH intègre un mécanisme de taxe sur les transferts, qui se décompose ai
 - Intégration avec des entreprises et institutions financières pour faciliter l'utilisation quotidienne de KOLOCASH.
 - Développement d'un mécanisme de stabilisation du prix
 - Création d’un fonds d'investissement dédié aux projets à fort impact social et économique en Afrique
+- KOLO Pay (solution mobile)
+- KOLO Wallet
+- Bridge vers d'autres blockchains
+- Kolocash Academy
 
 ## 5. Sécurité et gouvernance
 
