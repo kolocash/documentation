@@ -110,6 +110,7 @@ KOLOCASH intègre un mécanisme de taxe sur les transferts, qui se décompose ai
 ### **Phase 3 : stabilisation & cas d'utilisation (mois 6+)**
 
 - [ ] Listing sur des exchanges centralisés (CEX) pour accroître la visibilité de KOLOCASH et faciliter l’accès pour tous.
+- [ ] Bridge vers d'autres blockchains
 - [ ] Intégration avec des entreprises et institutions financières pour favoriser l’utilisation quotidienne du KOLO dans la vie réelle.
 - [ ] Développement d’un mécanisme de stabilisation du prix pour assurer une valeur stable du KOLO malgré la volatilité du marché.
 - [ ] Création d’un fonds d’investissement à impact pour soutenir des projets sociaux et économiques en Afrique (éducation, agriculture, énergie, etc.).
@@ -119,12 +120,13 @@ KOLOCASH intègre un mécanisme de taxe sur les transferts, qui se décompose ai
    * [ ] Chaque emprunt est garanti par un collatéral pour limiter les risques.
    * [ ] Le taux d’intérêt est ajusté dynamiquement selon l’offre et la demande.
 - [ ] Plateforme de micro-crédits décentralisés :
-   * [ ] Les investisseurs prêtent leurs cryptos à des entrepreneurs, associations ou particuliers africains.
-   * [ ] Les projets sont validés par la DAO KOLO ou la communauté.
-   * [ ] Les remboursements incluent un pourcentage d’intérêt, redistribué aux investisseurs.
+   * [ ] Les détenteurs de crypto (KOLO, POL, ETH, BTC, USDC…) peuvent staker leurs actifs pour générer des intérêts en KOLO.
+   * [ ] Les fonds prêtés sont utilisés pour financer des micro-crédits à des particuliers, entrepreneurs ou associations en Afrique.
+   * [ ] Les projets sont sélectionnés et validés par la DAO KOLO, garantissant transparence et utilité réelle.
+   * [ ] Les emprunteurs remboursent des intérêts raisonnables qui sont redistribués aux prêteurs, créant un écosystème durable, solidaire et rentable.
+   * [ ] Un système de collatéralisation et de notation communautaire permet de limiter les risques.
 - [ ] KOLO Pay (solution mobile)
 - [ ] KOLO Wallet
-- [ ] Bridge vers d'autres blockchains
 - [ ] Kolocash Academy
 
 ## 5. Sécurité et gouvernance
